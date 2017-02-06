@@ -1,5 +1,9 @@
 program pr01
 
+!
+! Simple program to learn how to use github
+!
+
 implicit none
 
 character(20) :: message = "Hello, world!"
