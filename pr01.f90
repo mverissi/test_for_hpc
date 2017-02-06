@@ -1,7 +1,7 @@
 program pr01
 
 !
-! Simple program to learn how to use github
+! Simple program to learn how to use github - nothing better than Hello world!
 !
 
 implicit none
